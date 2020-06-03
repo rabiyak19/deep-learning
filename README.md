@@ -1,5 +1,5 @@
 # deep-learning
-deep learning with tensorflow
+Practicing deep learning with tensorflow
 
 Contents:
 *MNIST dataset NN
